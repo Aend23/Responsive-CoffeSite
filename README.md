@@ -1,4 +1,11 @@
 # Responsive-CoffeSite
+![Screenshot 2023-12-03 164815](https://github.com/Aend23/Responsive-CoffeSite/assets/97446234/b2130c9e-ba0f-4bdb-9ce1-e987d72311a4)
+
+![Screenshot 2023-12-03 164852](https://github.com/Aend23/Responsive-CoffeSite/assets/97446234/de756a6b-05f0-4c6f-a5ae-4976c971a66a)
+
+![Screenshot 2023-12-03 165118](https://github.com/Aend23/Responsive-CoffeSite/assets/97446234/58127af6-a847-4604-8613-763dd8bf3695)
+
+![Screenshot 2023-12-03 165043](https://github.com/Aend23/Responsive-CoffeSite/assets/97446234/86b95902-2b96-4272-9b41-28de41536206)
 
 Ankush CoffeSite
 Welcome to CoffeeSite, a simple and delightful coffee-themed website built using HTML, CSS, and JavaScript. This website includes features such as a coffee cart and responsive design to enhance your coffee browsing experience.
